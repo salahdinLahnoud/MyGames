@@ -1,8 +1,6 @@
 ## Welcome to the games village website....
 
-You can use the to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run to rebuild the pages in your site, from the content in your Markdown files.
+Welcome to games village, the best place for kids! We offer many video clips, free online games, cool downloads and loads of free prizes. You can know all about your favourite cartoon characters like Tik Tak Tail,Tom & Jerry, Mr. Bean, Grizzy and the Lemmings, Takeshi’s Castle, Dorothy and the Wizard of Oz, The Happos Family and more!
 
 ### Markdown
 
