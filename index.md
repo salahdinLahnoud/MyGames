@@ -7,7 +7,7 @@ Welcome to games village, the best place for kids! We offer many video clips, fr
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 
-Link[Games Page](https://salahdinlahnoud.github.io/MyGames/)
+Link[Games Page](https://salahdinlahnoud.github.io/MyGames/GamesPage)
 ```markdown
 Syntax highlighted code block
 
